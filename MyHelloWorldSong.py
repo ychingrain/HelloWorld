@@ -1,5 +1,5 @@
 def victory():
-    vararray = ['Go,team,go!', 'Defeat your foe.',  'Default your foe.','Simply the best,','Better than the rest.']
+    vararray = ['Hello World!', 'Here is my song.',  'Let's all learn to program.','Because it's kinda fun.,','Hello World is our jam.']
     return vararray
 
 def initseq():
